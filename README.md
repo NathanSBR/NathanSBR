@@ -10,7 +10,7 @@
 
 ## 👋 ¡Hola! Soy Jonathan
 
-<img align="right" src="lobo-programador.png" alt="Lobo programador con portátil en negro y naranja" width="250" />
+<img align="right" src="lobo-programador.png" alt="Lobo gris con portátil y fondo transparente" width="250" />
 
 **Software Automation Engineer · QA Automation · RPA · AI Engineer · Backend**
 
