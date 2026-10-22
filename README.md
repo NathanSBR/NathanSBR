@@ -51,9 +51,7 @@ Diseño soluciones para reducir tareas repetitivas, detectar errores temprano y 
   <a href="https://github.com/NathanSBR"><img src="https://streak-stats.demolab.com?user=NathanSBR&amp;theme=github-dark-blue&amp;hide_border=true&amp;locale=es" alt="Racha de contribuciones de NathanSBR" width="49%" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/NathanSBR"><img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanSBR&amp;bg_color=0d1117&amp;color=8bdde8&amp;line=39c5db&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Gráfica de contribuciones públicas de NathanSBR" width="100%" /></a>
-</p>
+<p align="center"><a href="https://github.com/NathanSBR#year-list-container">Ver el calendario completo de contribuciones en GitHub</a></p>
 
 <p align="center"><sub>Las tarjetas se actualizan mediante servicios externos. También puedes consultar mi actividad directamente en <a href="https://github.com/NathanSBR">GitHub</a>.</sub></p>
 
