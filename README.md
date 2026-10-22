@@ -1,24 +1,45 @@
 <p align="center">
-  <img src="banner.svg" alt="Jonathan Betancourt — QA Automation Engineer" width="100%" />
+  <img src="banner.svg" alt="Jonathan Betancourt — Software Automation Engineer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathansbromero/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:jonathansbromero@gmail.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-168B9E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Correo electrónico" /></a>
-  <a href="https://github.com/NathanSBR/Portfolio_JonathanBetancourt"><img src="https://img.shields.io/badge/Portafolio-Explorar-222F45?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositorio de mi portafolio" /></a>
+  <a href="mailto:jonathansbromero@gmail.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-D96A15?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Correo electrónico" /></a>
+  <a href="https://portfolio-jonathan-betancourt.vercel.app"><img src="https://img.shields.io/badge/Portafolio-Explorar-262626?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visita mi portafolio profesional" /></a>
 </p>
 
 ## 👋 ¡Hola! Soy Jonathan
 
-**Ingeniero Informático y QA Automation Engineer**, con enfoque en automatización de software, pruebas de APIs y desarrollo backend.
+<img align="right" src="mascota-buho.png" alt="Mi búho robótico: un compañero de código en negro y naranja" width="250" />
 
-Diseño soluciones para reducir tareas repetitivas, detectar errores temprano y construir software confiable. En este espacio comparto proyectos de automatización, herramientas para QA y aplicaciones web.
+**Software Automation Engineer · QA Automation · RPA · AI Engineer · Backend**
 
-- 🧪 **QA Automation:** pruebas funcionales, de regresión y end-to-end con Playwright, Cypress y Serenity BDD.
-- ⚙️ **Automatización y RPA:** procesos mantenibles, validación de resultados y mejora continua.
-- 🔌 **APIs y backend:** desarrollo y pruebas de servicios REST con Python, TypeScript, Node.js y SQL.
-- 🤖 **IA aplicada:** modelos de lenguaje como apoyo al análisis y a la automatización.
-- 📍 Bogotá, Colombia · Español / English
+Soy **Jonathan Stevens Betancourt Romero**, Ingeniero Informático de la Universidad Militar Nueva Granada. Integro automatización de software, calidad, datos e inteligencia artificial aplicada para construir soluciones confiables.
+
+- 🧪 **QA y APIs:** pruebas E2E con Playwright y Serenity BDD, validación de APIs con Postman y SoapUI.
+- ⚙️ **RPA:** estrategias de prueba y certificación de procesos automatizados.
+- 🐍 **Backend y datos:** Python, Node.js, SQL y Power BI.
+- 🤖 **IA aplicada:** prompt engineering e integración de modelos de lenguaje.
+- 💼 **Actualmente:** Programador Staff en Inetum, vinculado como Ingeniero de Datos (Python); en formación de desarrollo seguro y ADA durante el onboarding.
+- 🌎 Bogotá, Colombia · Español nativo · Inglés B2 · Alemán A1.
+
+<br clear="both" />
+
+## 🎯 Experiencia e impacto
+
+| Experiencia | Aporte |
+| :--- | :--- |
+| **Inetum · Programador Staff**<br>Ago. 2026 – actualidad | Vinculación como Ingeniero de Datos (Python) y formación de incorporación al proyecto. |
+| **SQA · Analista de Automatización QA**<br>Oct. 2025 – abr. 2026 | Más de **50 flujos E2E** automatizados; reducción de hasta **30 %** del tiempo de regresión por sprint; aprobación cercana al **90 %** en ciclos de certificación RPA. |
+| **Seguros del Estado · Analista de Datos, práctica profesional**<br>Feb. 2025 – ago. 2025 | Actualización de dashboards cada **30 minutos** y reducción de más del **70 %** del tiempo de generación de informes con Excel y SQL. |
+| **SportMaps.co · QA & Full Stack Developer Junior, freelance**<br>Ene. 2024 – nov. 2024 | Interfaces con Angular y React, integración de APIs REST y validación E2E de flujos críticos de pago y asistencia. |
+
+## 🎓 Formación
+
+**Ingeniería Informática · Universidad Militar Nueva Granada**  
+Enero de 2022 – junio de 2026 · Promedio: **4.2/5.0**.
+
+Formación complementaria en API Testing con Postman, QA y automatización de pruebas, Google Cloud Compute, prompt engineering, Claude Code, ciencia de datos y desarrollo Full Stack.
 
 ## 🛠️ Lenguajes y herramientas
 
@@ -47,8 +68,8 @@ Diseño soluciones para reducir tareas repetitivas, detectar errores temprano y 
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <a href="https://github.com/NathanSBR?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=NathanSBR&amp;show_icons=true&amp;hide_rank=true&amp;theme=github_dark&amp;hide_border=true&amp;locale=es" alt="Estadísticas públicas de NathanSBR en GitHub" width="49%" /></a>
-  <a href="https://github.com/NathanSBR"><img src="https://streak-stats.demolab.com?user=NathanSBR&amp;theme=github-dark-blue&amp;hide_border=true&amp;locale=es" alt="Racha de contribuciones de NathanSBR" width="49%" /></a>
+  <a href="https://github.com/NathanSBR?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=NathanSBR&amp;show_icons=true&amp;hide_rank=true&amp;theme=github_dark&amp;title_color=ff922e&amp;icon_color=ff922e&amp;hide_border=true&amp;locale=es" alt="Estadísticas públicas de NathanSBR en GitHub" width="49%" /></a>
+  <a href="https://github.com/NathanSBR"><img src="https://streak-stats.demolab.com?user=NathanSBR&amp;theme=dark&amp;ring=ff922e&amp;fire=ff922e&amp;currStreakLabel=ff922e&amp;hide_border=true&amp;locale=es" alt="Racha de contribuciones de NathanSBR" width="49%" /></a>
 </p>
 
 <p align="center"><a href="https://github.com/NathanSBR#year-list-container">Ver el calendario completo de contribuciones en GitHub</a></p>
@@ -57,10 +78,13 @@ Diseño soluciones para reducir tareas repetitivas, detectar errores temprano y 
 
 ## 🤝 Conectemos
 
-Conversemos sobre **QA Automation, RPA, pruebas de APIs, IA aplicada y desarrollo backend**.
+Conversemos sobre **automatización de software, QA, RPA, pruebas de APIs, IA aplicada y desarrollo backend**.
+
+🌐 **Portafolio:** [portfolio-jonathan-betancourt.vercel.app](https://portfolio-jonathan-betancourt.vercel.app)
 
 - **LinkedIn:** [Jonathan Betancourt](https://www.linkedin.com/in/jonathansbromero/)
 - **Email:** [jonathansbromero@gmail.com](mailto:jonathansbromero@gmail.com)
 
 <p align="center"><strong>Calidad desde el código. Automatización con propósito.</strong></p>
+
 
