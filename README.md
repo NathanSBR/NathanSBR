@@ -10,7 +10,7 @@
 
 ## 👋 ¡Hola! Soy Jonathan
 
-<img align="right" src="mascota-buho.png" alt="Mi búho robótico: un compañero de código en negro y naranja" width="250" />
+<img align="right" src="lobo-programador.png" alt="Lobo programador con portátil en negro y naranja" width="250" />
 
 **Software Automation Engineer · QA Automation · RPA · AI Engineer · Backend**
 
@@ -86,5 +86,6 @@ Conversemos sobre **automatización de software, QA, RPA, pruebas de APIs, IA ap
 - **Email:** [jonathansbromero@gmail.com](mailto:jonathansbromero@gmail.com)
 
 <p align="center"><strong>Calidad desde el código. Automatización con propósito.</strong></p>
+
 
 
