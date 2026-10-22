@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Jonathan Betancourt — QA Automation Engineer</title>
+  <desc id="desc">Banner azul oscuro con acentos cian, un símbolo de código y especialidades de automatización de software.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#102d44"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#39d9e6"/><stop offset="1" stop-color="#579bff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#81c9e8" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1280" height="420" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="18" fill="url(#grid)"/>
+  <circle cx="1150" cy="60" r="260" fill="none" stroke="#38ccdf" stroke-opacity=".12"/>
+  <circle cx="1150" cy="60" r="200" fill="none" stroke="#38ccdf" stroke-opacity=".1"/>
+  <rect x="64" y="64" width="48" height="5" rx="2" fill="url(#accent)"/>
+  <text x="128" y="72" fill="#75e1ec" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="3">NATHANSBR / SOFTWARE &amp; QUALITY</text>
+  <text x="64" y="164" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700">Jonathan Betancourt</text>
+  <text x="67" y="216" fill="#65dbe9" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="600">QA Automation Engineer</text>
+  <text x="67" y="270" fill="#b8c9dc" font-family="Segoe UI,Arial,sans-serif" font-size="21">Automatización de software · APIs · RPA · IA aplicada · Backend</text>
+  <path d="M1030 160l-32 32 32 32m80-64 32 32-32 32m-33-82-22 100" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64 316H1216" stroke="#47647d" stroke-opacity=".5"/>
+  <text x="67" y="361" fill="#94aabe" font-family="Segoe UI,Arial,sans-serif" font-size="18">Calidad desde el código. Automatización con propósito.</text>
+  <text x="1214" y="361" text-anchor="end" fill="#75e1ec" font-family="Consolas,monospace" font-size="18">github.com/NathanSBR</text>
+</svg>
